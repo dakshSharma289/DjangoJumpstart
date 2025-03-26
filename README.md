@@ -1,2 +1,2 @@
 # DjangoJumpstart
-My first Official Django Project
+My First Official Django Project
